@@ -1,0 +1,17 @@
+{
+  "name": "odinProject_dom_exercises",
+  "version": "1.0.0",
+  "description": "These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'  They start off nice and easy, but get more involved as you progress through them.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "scripts": {},
+  "eslintConfig": {
+    "root": true
+  }
+}
